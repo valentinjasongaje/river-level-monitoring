@@ -66,7 +66,7 @@ void loop() {
 
   }
 
-  delay(10000);    //Send a request every 30 seconds
+  delay(10000);    //Send a request every 10 seconds
 
 }
 
